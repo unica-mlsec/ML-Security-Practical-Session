@@ -1,5 +1,11 @@
 # ML-Security-Practical-Session
 
+Setup: install the requirements from the `requirements.txt` file:
+
+```shell
+pip install -r requirements.txt
+```
+
 First, read the tutorial notebook. It can be found [here](src/adversarial_evasion_attacks.ipynb).
 
 Then, we are going to write a pipeline for running a security evaluation experiment.
