@@ -1,4 +1,4 @@
-# ML-Security-Practical-Session
+# ML Security Practical Session
 
 Setup: install the requirements from the `requirements.txt` file:
 
